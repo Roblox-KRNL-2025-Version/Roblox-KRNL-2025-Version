@@ -5,6 +5,7 @@ Unlock advanced scripting capabilities in Roblox with KRNL – a lightweight, st
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Version-2.5.1-blue?style=for-the-badge&logo=semantic-release&logoColor=white" />
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Installer-Not%20Required-lightgrey?style=for-the-badge&logo=gnome&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Optimized-brightgreen?style=for-the-badge&logo=lua&logoColor=white" />
